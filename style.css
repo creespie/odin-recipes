@@ -1,0 +1,14 @@
+body{
+background-color: aquamarine;
+
+}
+ol{
+    background-color: rgb(181, 222, 178);
+}
+h1,h3{
+    color: coral;
+}
+img{
+    width: 500px;
+    height: auto;
+}
