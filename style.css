@@ -1,14 +1,24 @@
 body{
-background-color: aquamarine;
+background-color: aliceblue;
+text-align: center;
 
 }
-ol{
-    background-color: rgb(181, 222, 178);
+ol,ul{
+    
+    display: inline-block;
+}
+.left{
+    text-align: left;
 }
 h1,h3{
     color: coral;
 }
 img{
-    width: 500px;
+    width: 300px;
     height: auto;
+}
+div{
+    display: inline-block;
+    margin-left: 25px;
+
 }
